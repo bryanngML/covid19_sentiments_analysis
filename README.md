@@ -1,2 +1,3 @@
-# covid19_sentimentanalysis
-COVID-19 sentiment analysis #jupyternotebook #covid19sentiment #wordcloud
+# covid19_sentiment_analysis
+COVID-19 sentiment analysis based on tweets 
+#jupyternotebook #covid19sentiments #wordcloud
